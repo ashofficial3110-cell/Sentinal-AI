@@ -1,0 +1,6 @@
+{
+  "name": "UPI Safety Coach – Fraud Awareness Assistant",
+  "description": "Professional AI-powered UPI fraud awareness assistant helping Indian citizens, students, and seniors identify scams, understand warning signs, and stay safe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
